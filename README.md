@@ -1,4 +1,4 @@
-# 🎯 180 Days of Python to AI Engineer
+# 🎯 100 Days of Python to AI Engineer
 
 Welcome to my daily tracking repository! I skipped the traditional college degree path to focus 100% on mastering production-grade AI systems, backend architectures, and autonomous agents.
 
